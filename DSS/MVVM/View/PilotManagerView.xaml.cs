@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WpfApp1.MVVM.View
+namespace DSS.MVVM.View
 {
     /// <summary>
     /// Interaction logic for PilotManagerView.xaml
@@ -23,6 +23,11 @@ namespace WpfApp1.MVVM.View
         public PilotManagerView()
         {
             InitializeComponent();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }

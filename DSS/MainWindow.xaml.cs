@@ -7,7 +7,7 @@ using System.Windows;
 using System.Windows.Controls;
 using SuperSimpleTcp;
 
-namespace WpfApp1
+namespace DSS
 {
 
     public partial class Pilot

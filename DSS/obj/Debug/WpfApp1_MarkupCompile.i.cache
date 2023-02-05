@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\krisa\source\repos\wpfApp\WpfApp1\obj\Debug\
-WpfApp1
+C:\Users\krisa\source\repos\DSS\DSS\obj\Debug\
+DSS
 none
 false
 DEBUG;TRACE
-C:\Users\krisa\source\repos\wpfApp\WpfApp1\App.xaml
+C:\Users\krisa\source\repos\DSS\DSS\App.xaml
 488126364
 
 13-2132526406
-3070826263
+30315900925
 MainWindow.xaml;MVVM\View\HomeView.xaml;MVVM\View\PilotManagerView.xaml;Theme\MenuButtonTheme.xaml;
 
-True
+False
 

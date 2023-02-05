@@ -1,6 +1,6 @@
-﻿using WpfApp1.Core;
+﻿using DSS.Core;
 
-namespace WpfApp1.MVVM.ViewModel
+namespace DSS.MVVM.ViewModel
 {
     internal class MainViewModel : ObservableObject
     {

@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using WpfApp1.Core;
+using DSS.Core;
 
-namespace WpfApp1.MVVM.ViewModel
+namespace DSS.MVVM.ViewModel
 {
     internal class HomeViewModel : ObservableObject
     {
