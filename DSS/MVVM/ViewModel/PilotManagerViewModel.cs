@@ -8,5 +8,6 @@ namespace DSS.MVVM.ViewModel
 {
     internal class PilotManagerViewModel
     {
+
     }
 }

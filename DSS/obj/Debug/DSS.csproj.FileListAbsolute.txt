@@ -112,3 +112,5 @@ C:\Users\krisa\source\repos\DSS\DSS\obj\Debug\DSS.g.resources
 C:\Users\krisa\source\repos\DSS\DSS\obj\Debug\DSS.Properties.Resources.resources
 C:\Users\krisa\source\repos\DSS\DSS\obj\Debug\DSS.exe
 C:\Users\krisa\source\repos\DSS\DSS\obj\Debug\DSS.pdb
+C:\Users\krisa\source\repos\DSS\DSS\obj\Debug\MVVM\View\PilotImport.g.cs
+C:\Users\krisa\source\repos\DSS\DSS\obj\Debug\MVVM\View\PilotImport.baml
